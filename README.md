@@ -20,6 +20,10 @@
   <img width="400" src="src/images/ui_counter.jpg">
 </p>
 
+<p align="middle">
+  <a href="https://blackcoffee-study.github.io/js-counter-test/">🖥️ 데모 링크</a>
+</p>
+
 counter라는 간단한 미션을 통해서 Cypress라는 E2E 도구에 익숙해져보세요. 아래의 간단한 기능을 구현하면 쉽게 Cypress도구를 사용해보실 수 있습니다.
 
 - [ ] counter의 초기값은 0이다.
